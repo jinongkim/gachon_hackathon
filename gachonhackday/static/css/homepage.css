@@ -1,0 +1,389 @@
+.iu-center-box {
+  width:960px;
+}
+.iu-page {
+  min-width:960px;
+}
+.header {
+  background-color:rgba(237,237,237,0.97);
+  color:#333333;
+  float:none;
+  height:50px;
+  left:0px;
+  position:fixed;
+  top:0px;
+  width:100%;
+  z-index:11;
+}
+.text-16 {
+  background-position:right;
+  bottom:0px;
+  color:#494949;
+  font-family:'Roboto Slab', sans-serif;
+  font-size:18px;
+  font-weight:700;
+  height:25px;
+  left:82.06%;
+  margin-bottom:auto;
+  margin-top:auto;
+  top:0px;
+  width:70px;
+}
+.floating-image-27 {
+  background-image:url('/resource/project/hackathon_logo.png');
+  background-position:center center;
+  background-size:contain;
+  height:100px;
+  left:61px;
+  top:-25px;
+  width:150px;
+}
+.page-content {
+  background-color:#FFFFFF;
+}
+.section-27 {
+  height:180px;
+}
+.text-33 {
+  font-family:'Montserrat', sans-serif;
+  font-size:65px;
+  font-weight:700;
+  height:87px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:66px;
+  width:849px;
+}
+.section {
+  background-color:transparent;
+  background-image:url('/resource/project/background_image.png');
+  background-size:100% 100%;
+  font-family:'Inconsolata', sans-serif;
+  font-weight:400;
+  height:720px;
+  opacity:0.67;
+  padding:0px;
+}
+.section-17 {
+  height:1080px;
+}
+.center-box {
+  color:#000000;
+}
+.text-25 {
+  color:#494949;
+  font-family:'Hanna', serif;
+  font-size:21px;
+  font-weight:400;
+  height:103px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:174px;
+  width:946px;
+}
+.text-31 {
+  color:#494949;
+  font-family:'Hanna', serif;
+  font-size:21px;
+  font-weight:400;
+  height:103px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:428px;
+  width:946px;
+}
+.text-32 {
+  color:#494949;
+  font-family:'Hanna', serif;
+  font-size:21px;
+  font-weight:400;
+  height:74px;
+  left:476px;
+  top:665px;
+  width:566px;
+}
+.floating-image-26 {
+  background-image:url('/resource/project/noun_58666_cc.png');
+  background-position:center center;
+  background-size:contain;
+  height:94px;
+  left:-31px;
+  top:69px;
+  width:110px;
+}
+.floating-image-25 {
+  background-image:url('/resource/project/noun_650862_cc.png');
+  background-position:center center;
+  background-size:contain;
+  height:90px;
+  left:6px;
+  top:334px;
+  width:74px;
+}
+.text-26 {
+  color:#000000;
+  font-family:'Montserrat', sans-serif;
+  height:55px;
+  left:65px;
+  top:108px;
+  width:444px;
+}
+.text-29 {
+  color:#000000;
+  font-family:'Montserrat', sans-serif;
+  height:55px;
+  left:90px;
+  top:356px;
+  width:444px;
+}
+.text-30 {
+  color:#000000;
+  font-family:'Montserrat', sans-serif;
+  height:55px;
+  left:91px;
+  top:588px;
+  width:444px;
+}
+.floating-image-29 {
+  background-image:url('/resource/project/noun_123376_cc.png');
+  background-position:center center;
+  background-size:contain;
+  height:75px;
+  left:6px;
+  top:562px;
+  width:74px;
+}
+.floating-image-31 {
+  background-image:url('/resource/project/campus_kw.gif');
+  background-position:center center;
+  background-size:100% 100%;
+  height:304px;
+  left:10px;
+  top:665px;
+  width:413px;
+}
+.footer {
+  background-color:rgba(219,219,219,0.50);
+  height:120px;
+  left:0px;
+  position:relative;
+  top:0px;
+  width:100%;
+}
+.text-17 {
+  background-position:center center;
+  height:44px;
+  left:254px;
+  text-align:center;
+  top:37.50%;
+  width:80px;
+}
+.text-19 {
+  background-position:center center;
+  height:44px;
+  left:428px;
+  text-align:center;
+  top:37.50%;
+  width:125px;
+}
+.text-20 {
+  background-position:center center;
+  height:44px;
+  left:633px;
+  text-align:center;
+  top:37.50%;
+  width:231px;
+}
+.floating-image {
+  background-image:url('/resource/project/noun_26636_cc.png');
+  background-position:center center;
+  background-size:contain;
+  height:44px;
+  left:210px;
+  top:30%;
+  width:51px;
+}
+.floating-image-18 {
+  background-image:url('/resource/project/noun_26691_cc.png');
+  background-position:center center;
+  background-size:contain;
+  height:44px;
+  left:387px;
+  top:31.67%;
+  width:51px;
+}
+.floating-image-19 {
+  background-image:url('/resource/project/noun_605053_cc.png');
+  background-position:center center;
+  background-size:contain;
+  height:44px;
+  left:575px;
+  top:30.83%;
+  width:51px;
+}
+.text-14 {
+  background-position:left center;
+  color:#FFFFFF;
+  float:none;
+  height:29px;
+  left:70%;
+  text-align:center;
+  top:70%;
+  width:280px;
+}
+@media screen and (max-width:959px) {
+  .iu-center-box {
+    width:320px;
+  }
+  .iu-page {
+    min-width:320px;
+  }
+  .header {
+    float:none;
+  }
+  .text-16 {
+    bottom:0px;
+    left:75%;
+    margin-bottom:auto;
+    margin-top:auto;
+    top:0px;
+  }
+  .floating-image-27 {
+    height:65px;
+    left:9px;
+    top:-6px;
+    width:109px;
+  }
+  .section-27 {
+    height:162px;
+  }
+  .text-33 {
+    font-family:'Montserrat', sans-serif;
+    font-size:24px;
+    font-weight:700;
+    height:44px;
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+    top:86px;
+    width:292.5px;
+  }
+  .section {
+    height:258px;
+  }
+  .text-25 {
+    height:161px;
+    left:20px;
+    top:106px;
+    width:307px;
+  }
+  .text-31 {
+    height:66px;
+    left:11px;
+    top:337px;
+    width:316px;
+  }
+  .text-32 {
+    left:8px;
+    top:505px;
+    width:304px;
+  }
+  .floating-image-26 {
+    height:70px;
+    left:-13px;
+    top:23px;
+    width:89px;
+  }
+  .floating-image-25 {
+    height:60px;
+    left:0px;
+    top:268px;
+    width:60px;
+  }
+  .text-26 {
+    font-size:8px;
+    height:38px;
+    left:58px;
+    top:55px;
+    width:251px;
+  }
+  .text-29 {
+    height:33px;
+    left:65px;
+    top:288px;
+    width:121px;
+  }
+  .text-30 {
+    height:38px;
+    left:65px;
+    top:455px;
+    width:118px;
+  }
+  .floating-image-29 {
+    height:60px;
+    left:1px;
+    top:434px;
+    width:60px;
+  }
+  .floating-image-31 {
+    background-image:url('/resource/project/campus_kw.gif');
+    background-size:100% 100%;
+    height:207px;
+    left:7px;
+    top:588px;
+    width:309px;
+  }
+  .text-17 {
+    font-size:9px;
+    height:22px;
+    left:13.12%;
+    top:11px;
+    width:69px;
+  }
+  .text-19 {
+    font-size:9px;
+    height:21px;
+    left:14.06%;
+    top:39px;
+    width:68px;
+  }
+  .text-20 {
+    font-size:9px;
+    height:22px;
+    left:13.75%;
+    top:68px;
+    width:160px;
+  }
+  .floating-image {
+    height:30px;
+    left:3.12%;
+    top:7px;
+    width:30px;
+  }
+  .floating-image-18 {
+    height:30px;
+    left:3.44%;
+    top:34px;
+    width:30px;
+  }
+  .floating-image-19 {
+    height:30px;
+    left:3.44%;
+    top:63px;
+    width:30px;
+  }
+  .text-14 {
+    float:none;
+    left:1.89%;
+    top:89px;
+    width:252px;
+  }
+
+}
